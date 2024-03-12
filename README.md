@@ -25,11 +25,8 @@ images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-awa
 This project generates localized messages based on arb files found in
 the `lib/src/localization` directory.
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
 
-![WhatsApp Image 2024-03-13 at 2 28 10 AM](https://github.com/theadityakr/The-Wall/assets/59906496/fea83551-e4d8-4427-8c03-17e2fa63bac1)
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
-![WhatsApp Image 2024-03-13 at 2 28 10 AM(1)](https://github.com/theadityakr/The-Wall/assets/59906496/2f0f59cc-2d6f-4899-b135-17c2b65c3c3f)
-![WhatsApp Image 2024-03-13 at 2 28 11 AM](https://github.com/theadityakr/The-Wall/assets/59906496/a4d5c010-9e28-4eca-9cb0-ce2696b96e17)
-![WhatsApp Image 2024-03-13 at 2 28 12 AM](https://github.com/theadityakr/The-Wall/assets/59906496/b4fa46dc-20e5-4c6c-a955-61cc0d0c12cc)
+![WhatsApp Image 2024-03-13 at 2 28 10 AM](https://github.com/theadityakr/The-Wall/assets/59906496/fea83551-e4d8-4427-8c03-17e2fa63bac1)![WhatsApp Image 2024-03-13 at 2 28 10 AM(1)](https://github.com/theadityakr/The-Wall/assets/59906496/2f0f59cc-2d6f-4899-b135-17c2b65c3c3f)
+
+![WhatsApp Image 2024-03-13 at 2 28 11 AM](https://github.com/theadityakr/The-Wall/assets/59906496/a4d5c010-9e28-4eca-9cb0-ce2696b96e17)![WhatsApp Image 2024-03-13 at 2 28 12 AM](https://github.com/theadityakr/The-Wall/assets/59906496/b4fa46dc-20e5-4c6c-a955-61cc0d0c12cc)
+
