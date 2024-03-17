@@ -1,4 +1,4 @@
-# apps4rent
+# Flutter Chat App
 
 A new Flutter project.
 
